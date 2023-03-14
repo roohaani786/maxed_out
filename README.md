@@ -2,14 +2,6 @@
 
 A 2D infinite side scroller made using [Flame](https://flame-engine.org/) engine.
 
-## Demo
-
-#![Menu](branding/menu.gif)
-
-#![Jump](branding/jump.gif)
-
-#![Hit](branding/hit.gif)
-
 ## Downloads
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.roohaniapps.maxed_out)
@@ -43,7 +35,3 @@ $ flutter run
 Assets provided in this repo are not owned by my. For more details about their origin and authors, check [assets/images/readme.md](assets/images/readme.md) and [assets/audio/readme.md](assets/audio/readme.md)
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
-
-## Why the code is so different than the YouTube series?
-
-To check the original code, checkout the [main](https://github.com/ufrshubham/dino_run/tree/main) branch.
