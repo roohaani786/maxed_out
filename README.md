@@ -32,6 +32,6 @@ $ flutter run
 
 ## License
 
-Assets provided in this repo are not owned by my. For more details about their origin and authors, check [assets/images/readme.md](assets/images/readme.md) and [assets/audio/readme.md](assets/audio/readme.md)
+Assets provided in this repo are not owned by me. For more details about their origin and authors, check [assets/images/readme.md](assets/images/readme.md) and [assets/audio/readme.md](assets/audio/readme.md)
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
